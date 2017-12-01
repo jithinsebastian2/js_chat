@@ -1,0 +1,12 @@
+{
+  "name": "Db_connection_eg",
+  "version": "0.0.1",
+  "description": "Db_connection_eg",
+  "main": "app.js",
+  "author": "Jithin S",
+  "dependencies": {
+    "express": "^4.15.2",
+    "mysql": "^2.5.4",
+    "socket.io": "^2.0.4"
+  }
+}
